@@ -1,4 +1,4 @@
-Sathish Kumar Murugesan - Cinematic Architecture Portfolio
+Sathish Kumar Murugesan - Architecture & BIM Studio Portfolio
 
 1. Extract this ZIP.
 2. Upload index.html to the root of your GitHub repository.
@@ -6,4 +6,5 @@ Sathish Kumar Murugesan - Cinematic Architecture Portfolio
 4. Source: Deploy from a branch. Select main and / (root), then Save.
 
 All images and code are embedded in index.html. No build tools or extra files are required.
-Includes complete About details, 13 original project galleries, BIMNEXUS interfaces and LinkedIn. No Download HTML button appears on the portfolio.
+Full About scope, 13 project galleries, BIMNEXUS interfaces and LinkedIn are included.
+There is no Download HTML button on the portfolio. The separate PDF is a 22-page selected visual edition.
